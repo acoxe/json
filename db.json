@@ -2,11 +2,11 @@
 	"tags": [
 		{
 		  "code": 200,
-		  "logId": "Inv234560-1581462249212",
-		  "path": "https://dev3-usermanagement.apps.rs-nonprod-int2-pcf.medassurant.local/api/v1/tags",
+		  "logId": "1",
+		  "path": "https://any.com",
 		  "result": [
 			{
-			  "applicationId": "0oamb5b1mtUwcRkpu0h7",
+			  "applicationId": "1",
 			  "applicationName": "Abstraction",
 			  "createdDate": "2019-07-18T15:55:06Z",
 			  "description": "This user is willing to travel to other regions",
@@ -15,7 +15,7 @@
 			  "updatedDate": "2020-02-12T03:12:48Z"
 			},
 			{
-			  "applicationId": "0oamb5b1mtUwcRkpu0h7",
+			  "applicationId": "2",
 			  "applicationName": "Abstraction",
 			  "createdDate": "2019-07-18T15:55:28Z",
 			  "description": "This reviewer is trained to do on site reviews",
@@ -24,7 +24,7 @@
 			  "updatedDate": "2019-08-16T22:20:11Z"
 			},
 			{
-			  "applicationId": "0oamb5b1mtUwcRkpu0h7",
+			  "applicationId": "3",
 			  "applicationName": "Abstraction",
 			  "createdDate": "2019-08-02T18:59:35Z",
 			  "description": "Trained and certified to operate Greenway EHR systemss",
