@@ -1,0 +1,684 @@
+{
+  "code": 200,
+  "logId": "Inv234560-1581462249212",
+  "path": "https://dev3-usermanagement.apps.rs-nonprod-int2-pcf.medassurant.local/api/v1/tags",
+  "result": [
+    {
+      "applicationId": "0oagv80vn1lVDgITZ0h7",
+      "applicationName": "qaAppTest7421",
+      "createdDate": "2018-10-23T15:43:10Z",
+      "id": 1,
+      "name": "qaTagTest4349",
+      "updatedDate": "2018-10-23T15:43:10Z"
+    },
+    {
+      "applicationId": "0oagwe1e69xc6spGs0h7",
+      "applicationName": "qaAppTest4361",
+      "createdDate": "2018-10-24T14:19:31Z",
+      "id": 2,
+      "name": "qaTagTest3046",
+      "updatedDate": "2018-10-24T14:19:31Z"
+    },
+    {
+      "applicationId": "0oagwq2os7E32EpgH0h7",
+      "applicationName": "Indices",
+      "createdDate": "2019-02-25T16:09:22Z",
+      "description": "strings",
+      "id": 3,
+      "name": "ui test tag",
+      "updatedDate": "2019-06-10T19:41:24Z"
+    },
+    {
+      "applicationId": "0oagwq2os7E32EpgH0h7",
+      "applicationName": "Indices",
+      "createdDate": "2019-02-25T17:11:12Z",
+      "description": "string",
+      "id": 4,
+      "name": "ui test tag other",
+      "updatedDate": "2019-02-25T17:11:12Z"
+    },
+    {
+      "applicationId": "0oajnz144uvULeSkt0h7",
+      "applicationName": "UserManagement",
+      "createdDate": "2019-03-11T22:59:51Z",
+      "description": "D-Tag",
+      "id": 5,
+      "name": "DTag",
+      "updatedDate": "2019-03-11T22:59:51Z"
+    },
+    {
+      "applicationId": "0oaktn18zs9Dy7iwr0h7",
+      "applicationName": "AppCreationTest",
+      "createdDate": "2019-05-13T16:48:50Z",
+      "id": 6,
+      "name": "AppCreationTest tag",
+      "updatedDate": "2019-05-13T16:48:50Z"
+    },
+    {
+      "applicationId": "0oaktsc96es6Y6d620h7",
+      "applicationName": "DevTestApp12",
+      "createdDate": "2019-05-13T20:12:35Z",
+      "id": 7,
+      "name": "DevTestApp12 Tag",
+      "updatedDate": "2019-06-10T19:41:05Z"
+    },
+    {
+      "applicationId": "0oalcs0aerdeh8qqB0h7",
+      "applicationName": "NewApp2019",
+      "createdDate": "2019-06-04T04:03:11Z",
+      "description": "NewApp2019 Tag",
+      "id": 8,
+      "name": "NewApp2019 Tag",
+      "updatedDate": "2019-06-04T04:03:11Z"
+    },
+    {
+      "applicationId": "0oalcs54p7IYXBYRr0h7",
+      "applicationName": "NewApp 2020",
+      "createdDate": "2019-06-04T04:11:23Z",
+      "description": "NewApp2020 Tag",
+      "id": 9,
+      "name": "NewApp2020 Tag",
+      "updatedDate": "2019-06-04T21:28:26Z"
+    },
+    {
+      "applicationId": "0oalcs54p7IYXBYRr0h7",
+      "applicationName": "NewApp 2020",
+      "createdDate": "2019-06-04T17:27:12Z",
+      "description": "Another Tag",
+      "id": 10,
+      "name": "Another Tag",
+      "updatedDate": "2019-06-04T17:27:12Z"
+    },
+    {
+      "applicationId": "0oalcs54p7IYXBYRr0h7",
+      "applicationName": "NewApp 2020",
+      "createdDate": "2019-06-04T17:28:31Z",
+      "description": "Yet Another One",
+      "id": 11,
+      "name": "Yet Another One",
+      "updatedDate": "2019-06-06T02:45:55Z"
+    },
+    {
+      "applicationId": "0oalcs54p7IYXBYRr0h7",
+      "applicationName": "NewApp 2020",
+      "createdDate": "2019-06-05T13:54:03Z",
+      "description": "assasa",
+      "id": 12,
+      "name": "asdssd",
+      "updatedDate": "2019-06-05T13:54:03Z"
+    },
+    {
+      "applicationId": "0oalcs0aerdeh8qqB0h7",
+      "applicationName": "NewApp2019",
+      "createdDate": "2019-06-05T13:56:14Z",
+      "description": "New Tag",
+      "id": 13,
+      "name": "New Tag",
+      "updatedDate": "2019-06-05T13:56:14Z"
+    },
+    {
+      "applicationId": "0oalcs0aerdeh8qqB0h7",
+      "applicationName": "NewApp2019",
+      "createdDate": "2019-06-05T15:14:26Z",
+      "description": "Tag it",
+      "id": 14,
+      "name": "Tag one more",
+      "updatedDate": "2019-06-06T03:52:22Z"
+    },
+    {
+      "applicationId": "0oalcs0aerdeh8qqB0h7",
+      "applicationName": "NewApp2019",
+      "createdDate": "2019-06-05T20:17:29Z",
+      "description": "One More",
+      "id": 15,
+      "name": "One More",
+      "updatedDate": "2019-06-06T02:52:22Z"
+    },
+    {
+      "applicationId": "0oalcs0aerdeh8qqB0h7",
+      "applicationName": "NewApp2019",
+      "createdDate": "2019-06-05T22:52:23Z",
+      "description": "Tag",
+      "id": 16,
+      "name": "Tag",
+      "updatedDate": "2019-06-05T22:52:23Z"
+    },
+    {
+      "applicationId": "0oalcs0aerdeh8qqB0h7",
+      "applicationName": "NewApp2019",
+      "createdDate": "2019-06-05T23:52:23Z",
+      "description": "Tag 1",
+      "id": 17,
+      "name": "Tag 1",
+      "updatedDate": "2019-06-05T23:52:23Z"
+    },
+    {
+      "applicationId": "0oaleq11dqhXlNtoI0h7",
+      "applicationName": "NewApp2023",
+      "createdDate": "2019-06-06T01:39:16Z",
+      "description": "Tag",
+      "id": 18,
+      "name": "Tag",
+      "updatedDate": "2019-06-06T01:39:16Z"
+    },
+    {
+      "applicationId": "0oalcs54p7IYXBYRr0h7",
+      "applicationName": "NewApp 2020",
+      "createdDate": "2019-06-06T10:44:04Z",
+      "description": "NewApp 2020 Tag",
+      "id": 19,
+      "name": "NewApp 2020 Tag",
+      "updatedDate": "2019-06-06T10:44:04Z"
+    },
+    {
+      "applicationId": "0oagiltcecsdFgvbA0h7",
+      "applicationName": "SMC-Clinical-Int",
+      "createdDate": "2019-06-18T18:28:56Z",
+      "description": "tag-01 desc",
+      "id": 23,
+      "name": "tag-01",
+      "updatedDate": "2019-06-18T22:29:08Z"
+    },
+    {
+      "applicationId": "0oagiltcecsdFgvbA0h7",
+      "applicationName": "SMC-Clinical-Int",
+      "createdDate": "2019-06-18T18:30:23Z",
+      "description": "tag-02 desc",
+      "id": 24,
+      "name": "tag-02",
+      "updatedDate": "2019-06-18T18:30:23Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-06-25T14:31:44Z",
+      "description": "This application can be administered by a customer user",
+      "id": 29,
+      "name": "customer admin",
+      "updatedDate": "2019-06-25T14:31:44Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-06-25T16:21:24Z",
+      "description": "tag01 desc",
+      "id": 30,
+      "name": "tag01",
+      "updatedDate": "2019-06-25T16:21:24Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-06-25T16:21:50Z",
+      "description": "tag03 desc",
+      "id": 31,
+      "name": "tag03",
+      "updatedDate": "2019-06-25T16:21:50Z"
+    },
+    {
+      "applicationId": "0oak7sqa6vjNwUfhK0h7",
+      "applicationName": "513App",
+      "createdDate": "2019-06-25T16:22:39Z",
+      "description": "Tag for 513App",
+      "id": 32,
+      "name": "513AppTag",
+      "updatedDate": "2019-06-25T16:22:39Z"
+    },
+    {
+      "applicationId": "0oak7sqa6vjNwUfhK0h7",
+      "applicationName": "513App",
+      "createdDate": "2019-06-25T17:45:55Z",
+      "description": "desc",
+      "id": 33,
+      "name": "513App-tag-02",
+      "updatedDate": "2019-10-02T22:37:29Z"
+    },
+    {
+      "applicationId": "0oal5jbhg9feKlayB0h7",
+      "applicationName": "IOUM-Angular-App-01",
+      "createdDate": "2019-06-25T18:18:04Z",
+      "description": "tag-01 desc",
+      "id": 34,
+      "name": "tag-01",
+      "updatedDate": "2019-06-25T18:18:04Z"
+    },
+    {
+      "applicationId": "0oal5jbhg9feKlayB0h7",
+      "applicationName": "IOUM-Angular-App-01",
+      "createdDate": "2019-06-26T17:50:16Z",
+      "description": "tag-02 description. This is going to a be very long description so that it wraps",
+      "id": 36,
+      "name": "tag-02",
+      "updatedDate": "2019-06-26T21:51:30Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T15:14:52Z",
+      "description": "",
+      "id": 42,
+      "name": "tag-04",
+      "updatedDate": "2019-07-12T15:14:52Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T15:15:29Z",
+      "description": "",
+      "id": 43,
+      "name": "tag-05",
+      "updatedDate": "2019-07-12T15:15:29Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T15:43:08Z",
+      "description": "",
+      "id": 45,
+      "name": "0006",
+      "updatedDate": "2019-07-12T15:43:08Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T15:49:55Z",
+      "description": "",
+      "id": 46,
+      "name": "tag1",
+      "updatedDate": "2019-07-12T15:49:55Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T17:17:31Z",
+      "description": "",
+      "id": 47,
+      "name": "0003",
+      "updatedDate": "2019-07-12T17:17:31Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T17:19:12Z",
+      "description": "",
+      "id": 48,
+      "name": "0005",
+      "updatedDate": "2019-07-12T17:19:12Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2019-07-12T17:20:00Z",
+      "description": "",
+      "id": 49,
+      "name": "0007",
+      "updatedDate": "2019-07-12T17:20:00Z"
+    },
+    {
+      "applicationId": "0oam8w3x6y1znsq0q0h7",
+      "applicationName": "zz-01",
+      "createdDate": "2019-07-16T21:48:55Z",
+      "description": "This reviewer is trained to do on site reviews",
+      "id": 50,
+      "name": "OnSiteReviewer",
+      "updatedDate": "2019-07-16T21:48:55Z"
+    },
+    {
+      "applicationId": "0oam8w3x6y1znsq0q0h7",
+      "applicationName": "zz-01",
+      "createdDate": "2019-07-16T21:53:01Z",
+      "description": "This user is willing to travel to other regions",
+      "id": 52,
+      "name": "CanTravel",
+      "updatedDate": "2019-07-16T21:53:01Z"
+    },
+    {
+      "applicationId": "0oamb5b1mtUwcRkpu0h7",
+      "applicationName": "Abstraction",
+      "createdDate": "2019-07-18T15:55:06Z",
+      "description": "This user is willing to travel to other regions",
+      "id": 54,
+      "name": "CanTravel",
+      "updatedDate": "2020-02-12T03:12:48Z"
+    },
+    {
+      "applicationId": "0oamb5b1mtUwcRkpu0h7",
+      "applicationName": "Abstraction",
+      "createdDate": "2019-07-18T15:55:28Z",
+      "description": "This reviewer is trained to do on site reviews",
+      "id": 55,
+      "name": "TrainedOnsiteReviewer",
+      "updatedDate": "2019-08-16T22:20:11Z"
+    },
+    {
+      "applicationId": "0oamb5b1mtUwcRkpu0h7",
+      "applicationName": "Abstraction",
+      "createdDate": "2019-08-02T18:59:35Z",
+      "description": "Trained and certified to operate Greenway EHR systemss",
+      "id": 60,
+      "name": "EHR Certified - Greenway",
+      "updatedDate": "2020-02-04T02:11:34Z"
+    },
+    {
+      "applicationId": "0oagdjw94d1ALk0Jt0h7",
+      "applicationName": "devtestapp1",
+      "createdDate": "2019-08-21T21:51:33Z",
+      "id": 92,
+      "name": "Tag 1",
+      "updatedDate": "2019-08-21T21:51:33Z"
+    },
+    {
+      "applicationId": "0oagdjw94d1ALk0Jt0h7",
+      "applicationName": "devtestapp1",
+      "createdDate": "2019-08-21T21:58:59Z",
+      "id": 93,
+      "name": "Tag 2",
+      "updatedDate": "2019-08-21T21:58:59Z"
+    },
+    {
+      "applicationId": "0oan5gxvur6rMiK0A0h7",
+      "applicationName": "App7869",
+      "createdDate": "2019-08-23T22:28:32Z",
+      "id": 94,
+      "name": "App7869 Tag",
+      "updatedDate": "2019-08-23T22:28:32Z"
+    },
+    {
+      "applicationId": "0oanawkde4UCJoxKs0h7",
+      "applicationName": "MyNewAwesomeApp",
+      "createdDate": "2019-09-03T20:07:21Z",
+      "id": 95,
+      "name": "MyNewAwesomeApp Tag",
+      "updatedDate": "2019-09-03T20:07:21Z"
+    },
+    {
+      "applicationId": "0oanaxivg3RsHFRnf0h7",
+      "applicationName": "NewApp3001",
+      "createdDate": "2019-09-03T21:29:26Z",
+      "id": 96,
+      "name": "NewApp3001 Tag",
+      "updatedDate": "2019-09-03T21:29:26Z"
+    },
+    {
+      "applicationId": "0oanaxru2eqDjyrYS0h7",
+      "applicationName": "NewApp3002",
+      "createdDate": "2019-09-03T21:47:41Z",
+      "id": 97,
+      "name": "NewApp3001 Tag",
+      "updatedDate": "2019-09-03T21:47:41Z"
+    },
+    {
+      "applicationId": "0oanaxtu4qDOxgaJ10h7",
+      "applicationName": "NewApp3003",
+      "createdDate": "2019-09-03T21:59:17Z",
+      "id": 98,
+      "name": "NewApp3003 Tag",
+      "updatedDate": "2019-09-03T21:59:17Z"
+    },
+    {
+      "applicationId": "0oanaxnp9lZaN0meo0h7",
+      "applicationName": "NewApp3005",
+      "createdDate": "2019-09-03T22:05:21Z",
+      "id": 99,
+      "name": "NewApp3005 Tag",
+      "updatedDate": "2019-09-03T22:05:21Z"
+    },
+    {
+      "applicationId": "0oanay5triiQgqNog0h7",
+      "applicationName": "NewApp3006",
+      "createdDate": "2019-09-03T22:11:35Z",
+      "id": 100,
+      "name": "NewApp3006 Tag",
+      "updatedDate": "2019-09-03T22:11:35Z"
+    },
+    {
+      "applicationId": "0oanb0qcsc7jy6MAV0h7",
+      "applicationName": "NewApp3007",
+      "createdDate": "2019-09-04T01:24:20Z",
+      "id": 101,
+      "name": "NewApp3007 Tag",
+      "updatedDate": "2019-09-04T01:24:20Z"
+    },
+    {
+      "applicationId": "0oanb0wkjgqy0PWDd0h7",
+      "applicationName": "NewApp3008",
+      "createdDate": "2019-09-04T01:28:37Z",
+      "id": 102,
+      "name": "NewApp3008 Tag",
+      "updatedDate": "2019-09-04T01:28:37Z"
+    },
+    {
+      "applicationId": "0oanb1212ulFBZv830h7",
+      "applicationName": "NewApp3009",
+      "createdDate": "2019-09-04T01:42:02Z",
+      "id": 103,
+      "name": "NewApp3009 Tag",
+      "updatedDate": "2019-09-04T01:42:02Z"
+    },
+    {
+      "applicationId": "0oanb103kfZhtDQPw0h7",
+      "applicationName": "NewApp3010",
+      "createdDate": "2019-09-04T01:48:58Z",
+      "id": 104,
+      "name": "NewApp3010 Tag",
+      "updatedDate": "2019-09-04T01:48:58Z"
+    },
+    {
+      "applicationId": "0oam8xtt3aztGsKqZ0h7",
+      "applicationName": "Identity",
+      "createdDate": "2019-09-19T15:41:38Z",
+      "description": "new tag desc",
+      "id": 109,
+      "name": "new tag",
+      "updatedDate": "2019-09-19T15:41:38Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:22:50Z",
+      "description": "CDPS review skill for NLPassAbstraction",
+      "id": 110,
+      "name": "CDPS Review",
+      "updatedDate": "2019-09-24T19:22:50Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:23:18Z",
+      "description": "ACG Review skill for NLPassAbstraction",
+      "id": 111,
+      "name": "ACG Review",
+      "updatedDate": "2019-09-24T19:23:18Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:23:50Z",
+      "description": "CMS-HCC Review skill for NLPassAbstraction",
+      "id": 112,
+      "name": "CMS-HCC Review",
+      "updatedDate": "2019-09-24T19:23:50Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:24:11Z",
+      "description": "HHS-HCC Review skill for NLPassAbstraction",
+      "id": 113,
+      "name": "HHS-HCC Review",
+      "updatedDate": "2019-09-24T19:24:11Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:24:27Z",
+      "description": "HEDIS Review skill for NLPassAbstraction",
+      "id": 114,
+      "name": "HEDIS Review",
+      "updatedDate": "2019-09-24T19:24:27Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:24:40Z",
+      "description": "NLP Review skill for NLPassAbstraction",
+      "id": 115,
+      "name": "NLP Review",
+      "updatedDate": "2019-09-24T19:24:40Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:24:54Z",
+      "description": "Initial Review skill for NLPassAbstraction",
+      "id": 116,
+      "name": "Initial Review",
+      "updatedDate": "2019-09-24T19:24:54Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:25:12Z",
+      "description": "Overread Review skill for NLPassAbstraction",
+      "id": 117,
+      "name": "Overread Review",
+      "updatedDate": "2019-09-24T19:25:12Z"
+    },
+    {
+      "applicationId": "0oam2k7jmg1cI0Bt70h7",
+      "applicationName": "NLPaaSAbstraction",
+      "createdDate": "2019-09-24T19:25:25Z",
+      "description": "Quality Review skill for NLPassAbstraction",
+      "id": 118,
+      "name": "Quality Review",
+      "updatedDate": "2019-09-24T19:25:25Z"
+    },
+    {
+      "applicationId": "0oandamgh76uGTE5d0h7",
+      "applicationName": "BrandNewApp3",
+      "createdDate": "2019-09-25T17:29:20Z",
+      "id": 119,
+      "name": "Tag 1",
+      "updatedDate": "2019-09-25T17:29:20Z"
+    },
+    {
+      "applicationId": "0oandamgh76uGTE5d0h7",
+      "applicationName": "BrandNewApp3",
+      "createdDate": "2019-09-25T17:29:20Z",
+      "id": 120,
+      "name": "Tag 2",
+      "updatedDate": "2019-09-25T17:29:20Z"
+    },
+    {
+      "applicationId": "0oaj0a3zu5rhE7Ev90h7",
+      "applicationName": "ProjectManagementWeb",
+      "createdDate": "2019-09-25T18:51:58Z",
+      "id": 121,
+      "name": "Tag 1",
+      "updatedDate": "2019-09-25T18:51:58Z"
+    },
+    {
+      "applicationId": "0oaj0a3zu5rhE7Ev90h7",
+      "applicationName": "ProjectManagementWeb",
+      "createdDate": "2019-09-25T18:51:58Z",
+      "id": 122,
+      "name": "Tag 2",
+      "updatedDate": "2019-09-25T18:51:58Z"
+    },
+    {
+      "applicationId": "0oandaky5tye0i3EF0h7",
+      "applicationName": "BrandNewApp2",
+      "createdDate": "2019-09-25T19:04:48Z",
+      "id": 123,
+      "name": "Tag 1",
+      "updatedDate": "2019-09-25T19:04:48Z"
+    },
+    {
+      "applicationId": "0oandaky5tye0i3EF0h7",
+      "applicationName": "BrandNewApp2",
+      "createdDate": "2019-09-25T19:04:49Z",
+      "id": 124,
+      "name": "Tag 2",
+      "updatedDate": "2019-09-25T19:04:49Z"
+    },
+    {
+      "applicationId": "0oanlkkbeb3s1J4To0h7",
+      "applicationName": "AppWithCustRole",
+      "createdDate": "2019-09-25T19:13:32Z",
+      "id": 125,
+      "name": "Tag 1",
+      "updatedDate": "2019-09-25T19:13:32Z"
+    },
+    {
+      "applicationId": "0oanwkrlg9Jovahs30h7",
+      "applicationName": "CDETestUI",
+      "createdDate": "2019-10-16T15:46:35Z",
+      "id": 131,
+      "name": "CanViewPHI",
+      "updatedDate": "2019-10-16T15:46:35Z"
+    },
+    {
+      "applicationId": "0oam7zh2kukZ3sC1i0h7",
+      "applicationName": "Analytics",
+      "createdDate": "2019-10-18T15:05:26Z",
+      "description": "A user who is trained to do abstraction",
+      "id": 135,
+      "name": "Abstractor",
+      "updatedDate": "2019-10-18T15:05:26Z"
+    },
+    {
+      "applicationId": "0oao58zgb70o2D0Gx0h7",
+      "applicationName": "CDEaaS",
+      "createdDate": "2020-01-31T22:59:48Z",
+      "description": "",
+      "id": 137,
+      "name": "tag01",
+      "updatedDate": "2020-01-31T22:59:48Z"
+    },
+    {
+      "applicationId": "0oal6i6d9uWnUAfdE0h7",
+      "applicationName": "ioum-angular-app-02",
+      "createdDate": "2020-02-04T19:38:20Z",
+      "description": "Test tag for io-angular seed application",
+      "id": 139,
+      "name": "TaggedTag",
+      "updatedDate": "2020-02-04T19:38:20Z"
+    },
+    {
+      "applicationId": "0oapmjyn57qG8LuU60h7",
+      "applicationName": "bulkuploadtest",
+      "createdDate": "2020-02-06T22:18:54Z",
+      "description": "string",
+      "id": 140,
+      "name": "bulktag",
+      "updatedDate": "2020-02-06T22:18:54Z"
+    },
+    {
+      "applicationId": "0oapopx3m6EKOgQd20h7",
+      "applicationName": "capp0211",
+      "createdDate": "2020-02-11T05:33:09Z",
+      "id": 142,
+      "name": "blktag",
+      "updatedDate": "2020-02-11T05:33:09Z"
+    },
+    {
+      "applicationId": "0oapour0ykfCRJI980h7",
+      "applicationName": "capp0211-2",
+      "createdDate": "2020-02-11T11:39:43Z",
+      "id": 143,
+      "name": "blktag",
+      "updatedDate": "2020-02-11T11:39:43Z"
+    },
+    {
+      "applicationId": "0oapoumlm1fACMT2M0h7",
+      "applicationName": "capp0211-1",
+      "createdDate": "2020-02-11T11:41:36Z",
+      "id": 144,
+      "name": "blktagg",
+      "updatedDate": "2020-02-11T11:41:36Z"
+    }
+  ],
+  "status": "ok",
+  "timestamp": "2020-02-11T23:04:09Z",
+  "verb": "GET"
+}
