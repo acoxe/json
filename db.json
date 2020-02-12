@@ -5,35 +5,35 @@
 		  "applicationName": "Abstraction",
 		  "description": "This user is willing to travel to other regions",
 		  "id": 54,
-		  "name": "CanTravel",
+		  "name": "CanTravel"
 		},
 		{
 		  "applicationId": "1",
 		  "applicationName": "Abstraction",
 		  "description": "This reviewer is trained to do on site reviews",
 		  "id": 55,
-		  "name": "TrainedOnsiteReviewer",
+		  "name": "TrainedOnsiteReviewer"
 		},
 		{
 		  "applicationId": "1",
 		  "applicationName": "Abstraction",
 		  "description": "Trained and certified to operate Greenway EHR systemss",
 		  "id": 56,
-		  "name": "EHR Certified - Greenway",
+		  "name": "EHR Certified - Greenway"
 		},
 		{
 		  "applicationId": "3",
 		  "applicationName": "Reporting",
 		  "description": "Member detail reports",
 		  "id": 57,
-		  "name": "Provider",
+		  "name": "Provider"
 		},
 		{
 		  "applicationId": "3",
 		  "applicationName": "Reporting",
 		  "description": "Medical Group Reports",
 		  "id": 58,
-		  "name": "Medical Group",
+		  "name": "Medical Group"
 		}
 	],
 	"applications": [
@@ -48,6 +48,6 @@
 		{
 			"id": "3",
 			"name": "Reporting"
-		},
+		}
 	]
 }
