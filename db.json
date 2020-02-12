@@ -2,8 +2,6 @@
 	"tags": [
 		{
 		  "code": 200,
-		  "logId": "1",
-		  "path": "https://any.com",
 		  "result": [
 			{
 			  "applicationId": "1",
@@ -33,9 +31,6 @@
 			  "updatedDate": "2020-02-04T02:11:34Z"
 			}
 		  ],
-		  "status": "ok",
-		  "timestamp": "2020-02-11T23:04:09Z",
-		  "verb": "GET"
 		}
 	]
 }
