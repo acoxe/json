@@ -35,19 +35,5 @@
 		  "id": 58,
 		  "name": "Medical Group"
 		}
-	],
-	"applications": [
-		{
-			"id": "1",
-			"name": "Abstraction"
-		},
-		{
-			"id": "2",
-			"name": "Identity"
-		},
-		{
-			"id": "3",
-			"name": "Reporting"
-		}
 	]
 }
