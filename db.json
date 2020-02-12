@@ -1,36 +1,53 @@
 {
 	"tags": [
 		{
-		  "code": 200,
-		  "result": [
-			{
-			  "applicationId": "1",
-			  "applicationName": "Abstraction",
-			  "createdDate": "2019-07-18T15:55:06Z",
-			  "description": "This user is willing to travel to other regions",
-			  "id": 54,
-			  "name": "CanTravel",
-			  "updatedDate": "2020-02-12T03:12:48Z"
-			},
-			{
-			  "applicationId": "2",
-			  "applicationName": "Abstraction",
-			  "createdDate": "2019-07-18T15:55:28Z",
-			  "description": "This reviewer is trained to do on site reviews",
-			  "id": 55,
-			  "name": "TrainedOnsiteReviewer",
-			  "updatedDate": "2019-08-16T22:20:11Z"
-			},
-			{
-			  "applicationId": "3",
-			  "applicationName": "Abstraction",
-			  "createdDate": "2019-08-02T18:59:35Z",
-			  "description": "Trained and certified to operate Greenway EHR systemss",
-			  "id": 60,
-			  "name": "EHR Certified - Greenway",
-			  "updatedDate": "2020-02-04T02:11:34Z"
-			}
-		  ],
+		  "applicationId": "1",
+		  "applicationName": "Abstraction",
+		  "description": "This user is willing to travel to other regions",
+		  "id": 54,
+		  "name": "CanTravel",
+		},
+		{
+		  "applicationId": "1",
+		  "applicationName": "Abstraction",
+		  "description": "This reviewer is trained to do on site reviews",
+		  "id": 55,
+		  "name": "TrainedOnsiteReviewer",
+		},
+		{
+		  "applicationId": "1",
+		  "applicationName": "Abstraction",
+		  "description": "Trained and certified to operate Greenway EHR systemss",
+		  "id": 56,
+		  "name": "EHR Certified - Greenway",
+		},
+		{
+		  "applicationId": "3",
+		  "applicationName": "Reporting",
+		  "description": "Member detail reports",
+		  "id": 57,
+		  "name": "Provider",
+		},
+		{
+		  "applicationId": "3",
+		  "applicationName": "Reporting",
+		  "description": "Medical Group Reports",
+		  "id": 58,
+		  "name": "Medical Group",
 		}
+	],
+	"applications": [
+		{
+			"id": "1",
+			"name": "Abstraction"
+		},
+		{
+			"id": "2",
+			"name": "Identity"
+		},
+		{
+			"id": "3",
+			"name": "Reporting"
+		},
 	]
 }
